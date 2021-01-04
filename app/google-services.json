@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "722326925689",
+    "firebase_url": "https://b-bc-1fc96.firebaseio.com",
+    "project_id": "b-bc-1fc96",
+    "storage_bucket": "b-bc-1fc96.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722326925689:android:550c9bfd85b97535787fa8",
+        "android_client_info": {
+          "package_name": "com.aidul23.b_bariaceramics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "722326925689-aom40ih4u7cia21e1hvfpqp8lf32cnl0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aidul23.b_bariaceramics",
+            "certificate_hash": "b9db7f3cf566ac72b7ade82fb5f24880b92f0872"
+          }
+        },
+        {
+          "client_id": "722326925689-dmhrr3v62cdnp0fad0kjohql4rd6bo29.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7kN4vpVdhp5m454RRmGQEnZRKimA7884"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "722326925689-dmhrr3v62cdnp0fad0kjohql4rd6bo29.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

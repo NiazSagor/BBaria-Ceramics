@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BBaria Ceramics</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="high_commode">হাই কমোড</string>
+    <string name="low_commode">লো কমোড</string>
+    <string name="wash_basin">ওয়াশ বেসিন</string>
+    <string name="metal">মেটাল</string>
+</resources>
